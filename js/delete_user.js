@@ -6,6 +6,7 @@
 // Удалите свойство name из объекта.
 
 
+
 let user ={}
 user['name'] = 'Вася'
 user['surname'] = 'Петров'
